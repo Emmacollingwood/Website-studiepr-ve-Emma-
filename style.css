@@ -1,0 +1,31 @@
+/*************** Reset *********************/
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/****************. fonts ******************/
+h1 {
+  color: #754147;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.2rem;
+  margin-block: 0.8rem;
+}
+main {
+  padding: 10px;
+}
+
+.width-65 {
+  max-width: 65ch;
+}
